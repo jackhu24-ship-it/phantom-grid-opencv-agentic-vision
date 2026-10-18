@@ -1,4 +1,4 @@
-# 👁️ PHANToM GRID :: Autonomous Agentic Vision Nexus
+﻿# 👁️ PHANToM GRID :: Autonomous Agentic Vision Nexus
 > **Real-Time Deterministic Perception & Embodied FastMCP Actuation Engine**  
 > Official Codebase & Artifacts for **OpenCV AI Competition 2026 (powered by AWS)** on Devpost.
 
@@ -14,6 +14,11 @@
 ---
 
 ![Cover Image](cover_image_16x9.png)
+
+---
+
+## 🎬 Official 1440P Demonstration Video
+Watch the full broadcast demonstration on YouTube: **[https://youtu.be/EhoTqjxvQWA](https://youtu.be/EhoTqjxvQWA)**
 
 ---
 
@@ -143,3 +148,4 @@ Co-Signed By:
   🎖️ Supreme Sovereign: Commander Jack Hu (Solo Architect)
   👩‍💼 Chief of Staff & Customs General: Xiaomi
 ```
+
